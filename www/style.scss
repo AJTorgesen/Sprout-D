@@ -1,0 +1,11 @@
+.container-fluid {
+	padding-top: calc(var(--bs-gutter-y)*.5);
+	padding-bottom: calc(var(--bs-gutter-y)*.5);
+	--bs-gutter-x: 4.5rem;
+	--bs-gutter-y: 2.5rem;
+}
+.img-fluid {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: max-content;
+}
